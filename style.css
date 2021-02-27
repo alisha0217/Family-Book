@@ -1,0 +1,21 @@
+h1{
+    font-size: 75px;
+    }
+    
+    body{
+    font-family: Sans Serif ;
+    text-align: center;
+    background-color:mistyrose;
+    }
+    
+    #Image1{
+    width: 500px;
+    padding: 15px;
+    }
+    
+    button{
+    height: 40px;
+    background-color:palevioletred;
+    color:rebeccapurple;
+    
+    }
